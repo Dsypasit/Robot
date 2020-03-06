@@ -75,7 +75,7 @@ body {
 }
 a:link{
     text-decoration: none;
-    
+
 }
 a:hover{
     color: violet;
@@ -83,6 +83,7 @@ a:hover{
 .card:hover{
     box-shadow: 10px 5px 10px 0 rgb(221, 221, 221);
     transform: translate(-5px,-5px);
+    color: rgb(118, 21, 209);
     transition: 0.4s;
 }
 
@@ -139,4 +140,24 @@ ul{
 .social ul li{
     display: inline;
     margin: 0 20px;
+}
+
+.content{
+    margin: 50px 0;
+    padding: 0 0;
+    width: 100%;
+    height: auto;
+}
+
+.story{
+    width: 60%;
+    margin: 30px 0;
+}
+
+.storyp{
+    font-size: 19px;
+}
+.comment{
+    font-size: 15px;
+
 }
