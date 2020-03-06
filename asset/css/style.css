@@ -116,13 +116,13 @@ a:hover{
     border: 1px solid;
     padding: 10px;
     border-radius: 16px;
-    transition: 0.5s;
+    transition: 0.3s;
     margin: 10px;
 }
 .techer:hover{
-    box-shadow: 10px 5px 5px 0 rgb(100, 8, 248);
+    box-shadow: 10px 5px 20px 0 rgb(68, 1, 175);
     transform: translate(-2px,-2px);
-    transition: 0.4s;
+    /* transition: 0.4s; */
 }
 ul{
     list-style: none;
