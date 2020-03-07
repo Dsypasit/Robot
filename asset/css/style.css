@@ -173,3 +173,7 @@ mark{
     background-position: top;
     background-size: cover;
 }
+
+.c-pre{
+    padding: 20px;
+}
