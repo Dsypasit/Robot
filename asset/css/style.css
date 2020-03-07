@@ -125,7 +125,7 @@ a:hover{
     /* transition: 0.4s; */
 }
 ul{
-    list-style: none;
+    /* list-style: none; */
     padding: 0;
 }
 
@@ -159,5 +159,13 @@ ul{
 }
 .comment{
     font-size: 15px;
-
+}
+.img-con{
+    text-align: center;
+}
+.img-con img{
+    width: 50%;
+}
+mark{
+    background-color: rgb(252, 236, 217);
 }
