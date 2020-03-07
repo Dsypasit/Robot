@@ -169,3 +169,7 @@ ul{
 mark{
     background-color: rgb(252, 236, 217);
 }
+.bg-con{
+    background-position: top;
+    background-size: cover;
+}
