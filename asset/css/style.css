@@ -11,6 +11,37 @@ body {
     padding: 20px 0;
     margin-bottom: 20px;
 }
+
+.content-all{
+    /* padding: 20px; */
+    border-radius: 15px;
+    position: relative;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    transition: 0.5s ;
+    box-sizing: border-box;
+    background: rgba(226, 218, 218, 0.2);
+    /* border: 1px solid rgba(0, 0, 0, 0.1); */
+    color: black;
+
+
+}
+
+.content-all p{
+    margin: 0;
+    padding: 20px;
+}
+.content-all :hover{
+    /* box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.2); */
+    border-radius: 20px;
+    transform: scale(1.2);
+    transition: 0.7s ease-in-out;
+    color: aliceblue;
+    background: #f0657c;
+
+}
+
 .border-short-bottom::after{
     position: absolute;
     content: "";
